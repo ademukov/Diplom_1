@@ -45,6 +45,7 @@ public class BurgerTest {
         Assert.assertEquals(2, burger.ingredients.size());
     }
 
+
     @Test
     public void moveIngredient() {
         Ingredient ingredient1 = new Ingredient(IngredientType.SAUCE, "ketchunez", 10_000.05f);
