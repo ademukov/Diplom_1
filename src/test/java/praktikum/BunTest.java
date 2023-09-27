@@ -3,7 +3,7 @@ package praktikum;
 import org.junit.Assert;
 import org.junit.Test;
 
-
+//добавлены тесты по замечаниям
 public class BunTest {
 
     @Test
